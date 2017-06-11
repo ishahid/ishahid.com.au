@@ -76,6 +76,10 @@ a {
     padding-top: 20px;
 }
 
+.padding-top-50px {
+    padding-top: 50px;
+}
+
 .main-image {
     background: url("../images/background.jpg");
     background-size: cover; 
